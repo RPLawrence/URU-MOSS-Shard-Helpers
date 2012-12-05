@@ -23,5 +23,8 @@ echo "Files generated:"
 echo "  $DEST/python.pak"
 echo "  `pwd`/Python.mbam"
 echo
+echo "cp $DEST/python.pak $HOME/auth/default/Python"
+echo "cp `pwd`/Python.mbam $HOME/auth/default"
+echo
 
 cd $HOME/work

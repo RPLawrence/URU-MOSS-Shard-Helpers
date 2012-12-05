@@ -20,7 +20,10 @@ $HOME/work/make-mbam.pl SDL.txt
 
 echo "Generated file locations:"
 echo "  `pwd`/SDL.mbam"
-echo "   $DEST/*.sdl"
+echo "  $DEST/*.sdl"
+echo
+echo "cp `pwd`/SDL.mbam $HOME/auth/default"
+echo "cp $DEST/*.sdl $HOME/auth/default/SDL"
 echo
 
 cd $HOME/work
