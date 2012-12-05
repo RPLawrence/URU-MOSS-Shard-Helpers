@@ -1,0 +1,8 @@
+dat\GlobalClothing_District_Female.prp,Data\dat\GlobalClothing_District_Female.prp.gz,0
+dat\GlobalClothing_District_Female01.prp,Data\dat\GlobalClothing_District_Female01.prp.gz,0
+dat\GlobalClothing_District_Female02.prp,Data\dat\GlobalClothing_District_Female02.prp.gz,0
+dat\GlobalClothing_District_Female04.prp,Data\dat\GlobalClothing_District_Female04.prp.gz,0
+dat\GlobalClothing_District_Male.prp,Data\dat\GlobalClothing_District_Male.prp.gz,0
+dat\GlobalClothing_District_Male01.prp,Data\dat\GlobalClothing_District_Male01.prp.gz,0
+dat\GlobalClothing_District_Male02.prp,Data\dat\GlobalClothing_District_Male02.prp.gz,0
+dat\GlobalClothing_District_Male04.prp,Data\dat\GlobalClothing_District_Male04.prp.gz,0

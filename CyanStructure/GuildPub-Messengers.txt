@@ -1,0 +1,7 @@
+dat\GuildPub-Messengers_District_BuiltIn.prp,Data\dat\GuildPub-Messengers_District_BuiltIn.prp.gz,0
+dat\GuildPub-Messengers_District_Pub.prp,Data\dat\GuildPub-Messengers_District_Pub.prp.gz,0
+dat\GuildPub-Messengers_District_Textures.prp,Data\dat\GuildPub-Messengers_District_Textures.prp.gz,0
+sfx\gpubAmbience.ogg,Data\sfx\gpubAmbience.ogg.gz,2
+sfx\rstrGiantImager_Loop.ogg,Data\sfx\rstrGiantImager_Loop.ogg.gz,1
+sfx\rstrGuild_OuterDoor_Down.ogg,Data\sfx\rstrGuild_OuterDoor_Down.ogg.gz,4
+sfx\rstrGuild_OuterDoor_Up.ogg,Data\sfx\rstrGuild_OuterDoor_Up.ogg.gz,4

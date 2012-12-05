@@ -1,0 +1,12 @@
+dat\Nexus_District_BuiltIn.prp,Data\dat\Nexus_District_BuiltIn.prp.gz,0
+dat\Nexus_District_NexusAgeDialog.prp,Data\dat\Nexus_District_NexusAgeDialog.prp.gz,0
+dat\Nexus_District_Textures.prp,Data\dat\Nexus_District_Textures.prp.gz,0
+dat\Nexus_District_nxusBookMachine.prp,Data\dat\Nexus_District_nxusBookMachine.prp.gz,0
+sfx\nxusBookButton_UpDown.ogg,Data\sfx\nxusBookButton_UpDown.ogg.gz,1
+sfx\nxusBookPutBack.ogg,Data\sfx\nxusBookPutBack.ogg.gz,4
+sfx\nxusBookRetrieval.ogg,Data\sfx\nxusBookRetrieval.ogg.gz,4
+sfx\nxusGearAmb_loop.ogg,Data\sfx\nxusGearAmb_loop.ogg.gz,4
+sfx\nxusKI-SlotDevice_AwayReturn.ogg,Data\sfx\nxusKI-SlotDevice_AwayReturn.ogg.gz,1
+sfx\xImagerNexus_Loop.ogg,Data\sfx\xImagerNexus_Loop.ogg.gz,4
+sfx\xKIOpenClose.ogg,Data\sfx\xKIOpenClose.ogg.gz,1
+sfx\xKISlotGlow.ogg,Data\sfx\xKISlotGlow.ogg.gz,4

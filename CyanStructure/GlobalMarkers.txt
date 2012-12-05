@@ -1,0 +1,3 @@
+dat\GlobalMarkers_District_Markers.prp,Data\dat\GlobalMarkers_District_Markers.prp.gz,0
+sfx\xMarkerTag_PickupMarker.ogg,Data\sfx\xMarkerTag_PickupMarker.ogg.gz,4
+sfx\xMarkerTag_PlaceMarker.ogg,Data\sfx\xMarkerTag_PlaceMarker.ogg.gz,4

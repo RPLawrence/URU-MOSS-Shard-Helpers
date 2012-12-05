@@ -1,0 +1,13 @@
+dat\Descent_District_BuiltIn.prp,Data\dat\Descent_District_BuiltIn.prp.gz,0
+dat\Descent_District_Textures.prp,Data\dat\Descent_District_Textures.prp.gz,0
+dat\Descent_District_TreasureBookShaft.prp,Data\dat\Descent_District_TreasureBookShaft.prp.gz,0
+sfx\dsntKiMachineSparkLoop.ogg,Data\sfx\dsntKiMachineSparkLoop.ogg.gz,4
+sfx\dsntRestAreaMusic_Loop.ogg,Data\sfx\dsntRestAreaMusic_Loop.ogg.gz,2
+sfx\dsntShaftAmb01_Loop.ogg,Data\sfx\dsntShaftAmb01_Loop.ogg.gz,2
+sfx\grsnKIDispenserEngage.ogg,Data\sfx\grsnKIDispenserEngage.ogg.gz,4
+sfx\grsnKIDispenserIdle_Loop.ogg,Data\sfx\grsnKIDispenserIdle_Loop.ogg.gz,5
+sfx\xGZMarkerPickup02.ogg,Data\sfx\xGZMarkerPickup02.ogg.gz,4
+sfx\xGZMarkerPulse01.ogg,Data\sfx\xGZMarkerPulse01.ogg.gz,4
+sfx\xKISlotGlow.ogg,Data\sfx\xKISlotGlow.ogg.gz,4
+sfx\xSparky_Flare.ogg,Data\sfx\xSparky_Flare.ogg.gz,4
+sfx\xSparky_Loop.ogg,Data\sfx\xSparky_Loop.ogg.gz,4

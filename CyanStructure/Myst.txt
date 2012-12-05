@@ -1,0 +1,7 @@
+dat\Myst_District_BuiltIn.prp,Data\dat\Myst_District_BuiltIn.prp.gz,0
+dat\Myst_District_Fireplace.prp,Data\dat\Myst_District_Fireplace.prp.gz,0
+dat\Myst_District_Textures.prp,Data\dat\Myst_District_Textures.prp.gz,0
+dat\Myst_District_mystEggRecipeGUI.prp,Data\dat\Myst_District_mystEggRecipeGUI.prp.gz,0
+sfx\mystLibraryMusic_loop.ogg,Data\sfx\mystLibraryMusic_loop.ogg.gz,2
+sfx\xSparky_Flare.ogg,Data\sfx\xSparky_Flare.ogg.gz,4
+sfx\xSparky_Loop.ogg,Data\sfx\xSparky_Loop.ogg.gz,4

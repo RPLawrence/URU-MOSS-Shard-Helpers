@@ -1,0 +1,8 @@
+dat\PelletBahroCave_District_BuiltIn.prp,Data\dat\PelletBahroCave_District_BuiltIn.prp.gz,0
+dat\PelletBahroCave_District_Cave.prp,Data\dat\PelletBahroCave_District_Cave.prp.gz,0
+dat\PelletBahroCave_District_Textures.prp,Data\dat\PelletBahroCave_District_Textures.prp.gz,0
+sfx\bhroWaterPoolAmb_Loop.ogg,Data\sfx\bhroWaterPoolAmb_Loop.ogg.gz,5
+sfx\clftBookRoomMusic_Loop.ogg,Data\sfx\clftBookRoomMusic_Loop.ogg.gz,2
+sfx\ercaCitySilo-Bubbles&Steam.ogg,Data\sfx\ercaCitySilo-Bubbles&Steam.ogg.gz,4
+sfx\ercaCitySilo-Explosion.ogg,Data\sfx\ercaCitySilo-Explosion.ogg.gz,4
+sfx\ercaCitySilo-PelletSplash.ogg,Data\sfx\ercaCitySilo-PelletSplash.ogg.gz,4

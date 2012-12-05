@@ -1,0 +1,10 @@
+dat\BaronCityOffice_District_BCOWrinkledPaper.prp,Data\dat\BaronCityOffice_District_BCOWrinkledPaper.prp.gz,0
+dat\BaronCityOffice_District_BCOpaper01.prp,Data\dat\BaronCityOffice_District_BCOpaper01.prp.gz,0
+dat\BaronCityOffice_District_BCOpaper02.prp,Data\dat\BaronCityOffice_District_BCOpaper02.prp.gz,0
+dat\BaronCityOffice_District_BCOpaper03.prp,Data\dat\BaronCityOffice_District_BCOpaper03.prp.gz,0
+dat\BaronCityOffice_District_BaronCityOffice.prp,Data\dat\BaronCityOffice_District_BaronCityOffice.prp.gz,0
+dat\BaronCityOffice_District_BuiltIn.prp,Data\dat\BaronCityOffice_District_BuiltIn.prp.gz,0
+dat\BaronCityOffice_District_Textures.prp,Data\dat\BaronCityOffice_District_Textures.prp.gz,0
+dat\BaronCityOffice_District_tldnBCOGZMarkersVis.prp,Data\dat\BaronCityOffice_District_tldnBCOGZMarkersVis.prp.gz,0
+sfx\tldnBaronCityMusic_Loop.ogg,Data\sfx\tldnBaronCityMusic_Loop.ogg.gz,2
+sfx\xGZMarkerPulse01.ogg,Data\sfx\xGZMarkerPulse01.ogg.gz,4

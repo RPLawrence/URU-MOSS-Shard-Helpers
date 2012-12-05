@@ -1,0 +1,7 @@
+dat\Kveer_District_BuiltIn.prp,Data\dat\Kveer_District_BuiltIn.prp.gz,0
+dat\Kveer_District_KveerHalls.prp,Data\dat\Kveer_District_KveerHalls.prp.gz,0
+dat\Kveer_District_Textures.prp,Data\dat\Kveer_District_Textures.prp.gz,0
+sfx\KVeerMusic.ogg,Data\sfx\KVeerMusic.ogg.gz,2
+sfx\kverAmb_Loop.ogg,Data\sfx\kverAmb_Loop.ogg.gz,2
+sfx\kverSeasonFinaleMx.ogg,Data\sfx\kverSeasonFinaleMx.ogg.gz,2
+sfx\xKISlotGlow.ogg,Data\sfx\xKISlotGlow.ogg.gz,4

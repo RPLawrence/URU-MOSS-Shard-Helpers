@@ -1,0 +1,105 @@
+April 17, 2012:
+ * Utilize Windows 7 taskbar progress bars
+ * Add language changer to launcher
+ * Flash game window on new KI pms and KI mail
+ * Allow users to play Uru in any resolution supported by their monitor
+ * Add randomness (remove Shroomie predictability)
+ * Replace stack dumps with independent crash handler
+ * Lots of under-the-hood goodness
+ * Fix download progress bars tracking the wrong total file sizes
+ * Fix edge cases related to DST
+ * Fix a potential float overflow
+ * Fix Relto nosedive
+ * Fix some weird camera transitions
+ * Fix some lag
+ * Perturbed matrices
+
+March 10, 2012:
+ * Add tab-based name completion to the KI
+ * Fix some time related exploits
+ * Fix DST dates to match those of the US/Canada
+ * Fix for hotspots not working while sitting or AFK
+ * Improve server stability
+ * Reticulated splines
+
+March 1, 2012:
+ * Fix footstep regions in Vothol Gallery
+ * Fix bad images in journals
+ * Fix client password hashing
+ * Potential fix for exploding Gira baskets
+ * Potential fix for Relto nose dive
+ * Fix camera getting stuck in Eder Kemo gazebo
+ * Fix for potential Net6 issue in client
+ * Add copy/paste support
+ * Sort Age Players in BigKI by player name
+ * Some under-the-hood goodness in the client
+ * Improve multiplayer synchronization
+ * Fix incorrect age population counts
+ * Improve server stability
+ * Removed Herobrine
+
+February 18, 2012:
+ * Better quality KI snapshots
+ * Fix landing behavior
+ * Changed kickable behavior
+ * Fixed some of the blocking stairs
+ * Fix jitters in sliding collisions
+ * Fix TOS encoding errors
+ * Fix top arrow in the BigKI
+ * Fix city book clasp
+ * Fix Relto city book for guests
+ * Fix server lock-ups
+ * Lots of under-the-hood goodness
+
+February 10, 2012:
+ * Unlock client framerate
+ * Improve PhysX sim stability
+ * Better public age population tracking
+ * Notify players when a buddy goes offline
+ * Improve server stability
+ * Fix city state issues
+
+February 5, 2012:
+ * Stop the gira baskets from going crazy
+ * Fix the fireflies in multiplayer
+ * Generate 'Neighborhoods' instead of 'Hoods'
+ * Stop the avatar flashdace on panic link
+ * Removed herobrine
+
+February 2, 2012:
+ * Enable Vothol in the Nexus
+ * Make the GZ a public age
+ * Prime journey can now be completed
+ * Relto Sharing now works correctly
+ * Panic links should no longer go insane
+
+January 29, 2012:
+ * Fix msgsize==66 assert
+ * Fix error with buddy/hood chat
+ * Minor default SDL tweaks
+
+January 28, 2012:
+ * Fix bahrocave linking
+ * Fix Neighborhood books
+ * Fix auto-page-seeking on longer books
+ * Fix return key as an event source
+ * Allow tabs in chat and KImails
+ * Jalak columns with a semicolon in the name can be saved
+ * Unknown buddy-message senders are added to recent
+ * Minkata sparkly is fixed
+ * Er'Cana elevator can no longer be stuck forever
+ * Private rooms can no longer mute you forever
+
+January 25, 2012:
+ * Move to new server
+
+January 21, 2012:
+ * Add Kirel and Watcher's Pub ages
+
+January 20, 2012:
+ * I don't even know anymore. Devs have been crazy busy.
+
+Changed:
+ * added vothol
+ * switched to new preloader
+ * plEnableMsg now works
