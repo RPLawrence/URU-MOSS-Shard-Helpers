@@ -16,7 +16,7 @@ makembm.pl      - generate manifest files and gzip the target files for the MOSS
 
 pack-python.pl  - generate a stock python.pak and appropriate manifest.
 
-secure-SDL.pl   - Secure the SDL files and generate a appropriate manifest.
+secure-SDL.pl   - Secure the SDL files and generate appropriate manifest.
 
 moss1.ps1 - Powershell script that generates 'auth' and 'game' server files and deposits them on the server.
   
