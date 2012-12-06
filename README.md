@@ -8,5 +8,9 @@ Why not let the computer do most of the work?
 
 Here is what we have:
 
-  makembm.pl  - generate manifest files and gzip the target files for the MOSS file server.
-  
+--This generates files for the 'file' server--
+  makembm.pl      - generate manifest files and gzip the target files for the MOSS file server.
+
+--These generate files for the 'auth' server--
+  pack-python.pl  - generate a stock python.pak and appropriate manifest.
+  secure-SDL.pl   - Secure the SDL files and generate a appropriate manifest.
