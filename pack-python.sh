@@ -28,7 +28,7 @@ python2.7 -m compileall .
 
 # create and secure the .pak file
 rm -f $DEST/python.pak $DEST/../Python.mbam
-PyPack -c -live $KEY system/*.pyc plasma/*.pyc xKI/*.pyc *.pyc $DEST/python.pak
+PyPack -c -live $KEY system/*.pyc plasma/*.pyc ki/*.pyc *.pyc $DEST/python.pak
 cd $DEST/..
 echo 'Python\python.pak' > Python.txt
 $HOME/work/make-mbam.pl Python.txt
