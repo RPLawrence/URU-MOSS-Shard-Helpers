@@ -33,12 +33,15 @@ cd $DEST/..
 echo 'Python\python.pak' > Python.txt
 $HOME/work/make-mbam.pl Python.txt
 
-echo "Files generated:"
-echo "  $DEST/python.pak"
-echo "  `pwd`/Python.mbam"
-echo
-echo "cp $DEST/python.pak $HOME/auth/default/Python"
-echo "cp `pwd`/Python.mbam $HOME/auth/default"
-echo
+echo "
+Files generated:
+  $DEST/python.pak
+  `pwd`/Python.mbam
+
+Update the server:
+  cp $DEST/python.pak $HOME/auth/default/Python
+  cp `pwd`/Python.mbam $HOME/auth/default
+
+"
 
 cd $HOME/work

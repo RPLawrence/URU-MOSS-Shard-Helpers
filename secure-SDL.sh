@@ -33,12 +33,15 @@ ls -1 *.sdl|awk '{ print "SDL\\"$1; }' > ../SDL.txt
 cd ..
 $HOME/work/make-mbam.pl SDL.txt
 
-echo "Generated file locations:"
-echo "  `pwd`/SDL.mbam"
-echo "  $DEST/*.sdl"
-echo
-echo "cp `pwd`/SDL.mbam $HOME/auth/default"
-echo "cp $DEST/*.sdl $HOME/auth/default/SDL"
-echo
+echo "
+Generated file locations:
+  `pwd`/SDL.mbam
+  $DEST/*.sdl
+
+Update the server:
+  cp `pwd`/SDL.mbam $HOME/auth/default
+  cp $DEST/*.sdl $HOME/auth/default/SDL
+
+"
 
 cd $HOME/work
